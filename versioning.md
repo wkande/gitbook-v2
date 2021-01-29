@@ -62,7 +62,7 @@ If GitBook adds hidden variants then all releases could exist in one GitBook spa
 
 ### Solution \#4
 
-Do not use the GitHub integration feature from GitBook. GitBook stores content in the Google Cloud. While the data can be exported this is a dependency on a third party.
+Do not use the GitHub integration feature from GitBook. GitBook stores content in the Google Cloud. While the data can be exported this is a dependency on a third party. It may be hard to format the data back to GitHub.
 
 
 
