@@ -3,9 +3,9 @@
 * [Spaces](README.md)
 * [Variants](variants.md)
 * [Versioning](versioning.md)
-* [tester](tester.md)
 
 ## GitHub
 
-* [Bi-directional GitHub integration](github/bi-directional-github-integration.md)
+* [Bi-directional GitHub integration](github/bi-directional-github-integration/README.md)
+  * [tester](github/bi-directional-github-integration/tester.md)
 
