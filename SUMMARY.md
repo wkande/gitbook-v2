@@ -10,5 +10,5 @@
 
 ## Additional Notes <a id="additional"></a>
 
-* [GitBook's Online Editor](additional/gitbook-editor.md)
+* [Online Editor](additional/gitbook-editor.md)
 
