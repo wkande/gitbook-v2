@@ -60,7 +60,9 @@ If GitBook adds hidden variants then all releases could exist in one GitBook spa
 | v1.1.0 | owner/gitbook-v1.1.0 | gitbook-v1.1.0 |
 | v2.0.0 | owner/gitbook-v2.0.0 | gitbook-v2.0.0 |
 
+### Solution \#4
 
+Do not use the GitHub integration feature from GitBook. GitBook stores content in the Google Cloud. While the data can be exported this is a dependency on a third party.
 
 
 
