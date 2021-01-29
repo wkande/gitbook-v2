@@ -6,6 +6,5 @@
 
 ## GitHub
 
-* [Bi-directional GitHub integration](github/bi-directional-github-integration/README.md)
-  * [tester](github/bi-directional-github-integration/tester.md)
+* [Bi-directional GitHub integration](github/bi-directional-github-integration.md)
 
