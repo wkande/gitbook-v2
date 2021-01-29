@@ -12,7 +12,7 @@ Versioning with GitBook can be done using variants but can become confusing unle
 
 It is important to never merge any one branch to another in GitHub as merged content from one variant could overwrite another's. This will result in versions showing content from other versions.
 
-### Using Semantic Versioning
+## Using Semantic Versioning
 
 Consider a simple use case of semantic versioning
 
@@ -23,14 +23,14 @@ Consider a simple use case of semantic versioning
 Using semantic versioning milestones \(_major, minor, and patch_\) can be an issue if the content is not prepared. Each would need a new variant and variants currently become visible to customers as soon as they are created. Unless the content is ready, customers will see nothing but a copy of old content.
 
 {% hint style="info" %}
-As mentioned in the section **Variants**: 
+As mentioned in the section **Variants**:
 
 A ticket has been submitted to GitBook to determine if a variant can be hidden independently of other variants.
 {% endhint %}
 
-If GitBook commits to adding hiding variants, then versioning using variants become easy.    
+If GitBook commits to adding hiding variants, then versioning using variants become easy.
 
-### Solution \#1
+## Solution \#1
 
 Separate repos could be used based on semantic **major** releases \(v1, v2, etc.\).
 
@@ -45,11 +45,11 @@ Here **minor** and **patch** releases could be added as variants. However, the c
 * 1.0.2
 * 1.1.0
 
-### Solution \#2
+## Solution \#2
 
-Use separate repos as in **Solution \#1** but never create a new variant. Version 1 would simply be a constant work in progress. This could be limiting if documentation must follow product semantic versioning.   
+Use separate repos as in **Solution \#1** but never create a new variant. Version 1 would simply be a constant work in progress. This could be limiting if documentation must follow product semantic versioning.
 
-### Solutions \#3
+## Solutions \#3
 
 If GitBook adds hidden variants then all releases could exist in one GitBook space and GitHub repo.
 
@@ -60,15 +60,7 @@ If GitBook adds hidden variants then all releases could exist in one GitBook spa
 | v1.1.0 | owner/gitbook-v1.1.0 | gitbook-v1.1.0 |
 | v2.0.0 | owner/gitbook-v2.0.0 | gitbook-v2.0.0 |
 
-### Solution \#4
+## Solution \#4
 
 Do not use the GitHub integration feature from GitBook. GitBook stores content in the Google Cloud. While the data can be exported this is a dependency on a third party. It may be hard to format the data back to GitHub.
-
-
-
-
-
-
-
-
 

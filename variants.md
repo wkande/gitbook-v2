@@ -16,11 +16,9 @@ Each new variant is an independent copy of the content though it is not clear wh
 A ticket has been submitted to GitBook to determine which content the new variant copies.
 {% endhint %}
 
-It should be noted that each time a variant is created it will go live \(available to users\) once the variant is merged with its GitHub repo's branch. GitBook does not allow the disabling of a variant during its development to hide it from users. 
+It should be noted that each time a variant is created it will go live \(available to users\) once the variant is merged with its GitHub repo's branch. GitBook does not allow the disabling of a variant during its development to hide it from users.
 
 {% hint style="info" %}
 A ticket has been submitted to GitBook to determine if a variant can be hidden independently of other variants.
 {% endhint %}
-
-
 
