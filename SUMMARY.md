@@ -7,3 +7,5 @@
 ## GitHub
 
 * [Bi-directional GitHub integration](github/bi-directional-github-integration.md)
+
+## My Stuff
