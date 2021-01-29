@@ -10,5 +10,5 @@
 
 ## Additional Notes
 
-* [Bi-directional GitHub integration](additional-notes/bi-directional-github-integration.md)
+* [GitBook's Online Editor](additional-notes/gitbook-editor.md)
 

@@ -2,7 +2,7 @@
 description: Syncing a space in either direction.
 ---
 
-# Bi-directional GitHub integration
+# GitBook's Online Editor
 
 Integrating GitBook with GitHub can provide changes made outside of the GitBook online editor to sync back to GitBook. This can be problematic if changes made to the repo by other tools end up overwriting the GitBook saved \(not merged\) image.
 
