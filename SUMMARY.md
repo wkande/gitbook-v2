@@ -8,7 +8,7 @@
 
 * [Bi-directional GitHub integration](github/bi-directional-github-integration.md)
 
-## Additional Notes
+## Additional Notes <a id="additional"></a>
 
-* [GitBook's Online Editor](additional-notes/gitbook-editor.md)
+* [GitBook's Online Editor](additional/gitbook-editor.md)
 
