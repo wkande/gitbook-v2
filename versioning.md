@@ -28,6 +28,10 @@ As mentioned in the section **Variants**:
 A ticket has been submitted to GitBook to determine if a variant can be hidden independently of other variants.
 {% endhint %}
 
+{% hint style="info" %}
+Response 1/30/2021: The variant is hidden until the draft is first merged.
+{% endhint %}
+
 If GitBook commits to adding hiding variants, then versioning using variants become easy.
 
 ## Solution \#1
