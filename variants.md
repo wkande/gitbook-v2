@@ -20,5 +20,7 @@ It should be noted that each time a variant is created it will go live \(availab
 
 {% hint style="info" %}
 A ticket has been submitted to GitBook to determine if a variant can be hidden independently of other variants.
+
+Response 1/30/2021: The variant is hidden until the draft is first merged.
 {% endhint %}
 
