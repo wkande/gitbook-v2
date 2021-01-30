@@ -4,6 +4,8 @@ description: Versioning can be maintained through variant manipulation by the au
 
 # Versioning
 
+Versioning can be maintained through variant manipulation by the author.
+
 Versioning with GitBook can be done using variants but can become confusing unless the default behavior that GitBok uses for GitHub integrations is considered. The following rules are implemented by GitBook by default. They can be changed by changing the **slug** of the variant.
 
 * The initial variant points to the master branch.
