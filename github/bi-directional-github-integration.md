@@ -8,5 +8,7 @@ Integrating GitBook with GitHub can provide changes made outside of the GitBook 
 
 When using the online editor it may be best to have GitHub contributors push to a repo branch that is not integrated. Then let the author figure out the merge to a branch \(variant\).
 
-Because the online editor saves many changes as a single draft, merges must send the entire draft to the repo. This makes it difficult to provide detailed commit messages about each page change unless every page change is isolated from other work and then merged before working on another page. This is difficult to do. 
+Commit messages to the repo are generic and only reflect which pages were included in the draft as it was merged.
+
+`GitBook: [master] 6 pages modified`
 
