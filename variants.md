@@ -10,7 +10,7 @@ GitBook places each variant on its own branch and as such merging branches as a 
 
 GitBook creates an initial variant upon space creation. By default, the initial variant is merged to the repo's master branch. It is hidden in GitBook until a new variant is added by an author. The new variant will be pushed to a branch in the repo using the variant's slug as the branch name. This behavior is by design but changing the behavior is possible.
 
-It appears that each new variant is an independent copy of the content from the previous variant. A new variant is created from the currently selected variant.
+Each variant is an independent copy of the content from otehr variants. A new variant is created from the currently selected variant.
 
 Older variants can be updated without changing other variants. Useful to make corrections to older documentation. 
 
