@@ -1,8 +1,8 @@
+---
+description: 2.0.2
+---
+
 # Spaces
 
-{% hint style="warning" %}
-### Version 2.0.1 now available
-
-A newer version of the docs \([2.0.1](https://wkande.gitbook.io/gitbook-notes-vs/)\) are now avaialbe.
-{% endhint %}
+In GitBook, a space is a project where you can start organizing your ideas as a book. While spaces are nothing more than a project collection they can be useful to separate major versions of documentation.
 
