@@ -43,7 +43,9 @@ Here **minor** and **patch** releases could be added as variants. However, the c
 
 ## Solution \#2
 
-Use separate repos as in **Solution \#1** but never create a new variant. Version 1 would simply be a constant work in progress. This could be limiting if documentation must follow product semantic versioning.
+Use separate repos as in **Solution \#1** but never create a new variant. Version 1 or 2 would simply be a constant work in progress. Each repo would store its draft changes onto the master branch. If the GitBook bidirectional GitHub integration is used this option might be simple to manage for pull requests by the community. It would also remove the variant menu from the Docs since there is only one variant. Older versions would provide a notice and link to the User to see the latest to access the next version of the docs.
+
+This solution could be limiting if documentation must follow product semantic versioning.
 
 ## Solutions \#3
 
@@ -58,5 +60,5 @@ If GitBook adds hidden variants then all releases could exist in one GitBook spa
 
 ## Solution \#4
 
-Do not use the GitHub integration feature from GitBook. GitBook stores content in the Google Cloud. While the data can be exported this is a dependency on a third party. It may be hard to format the data back to GitHub.
+Do not use the GitHub integration feature from GitBook. GitBook stores content in the Google Cloud. While the data can be exported this is a dependency on a third party. It may be hard to format the data back to GitHub. This solution does not provide for community pull requests.
 
