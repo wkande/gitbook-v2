@@ -8,7 +8,3 @@
 
 * [Bi-directional GitHub integration](github/bi-directional-github-integration.md)
 
-## My Stuff
-
-* [Bi-directional GitHub integration](my-stuff/bi-directional-github-integration.md)
-
