@@ -12,7 +12,7 @@ GitBook creates an initial variant upon space creation. By default, the initial 
 
 It appears that each new variant is an independent copy of the content from the previous variant.
 
-Older variants can be updated without changing other varaints. Useful to make corrections to older documentation. 
+Older variants can be updated without changing other variants. Useful to make corrections to older documentation. 
 
 It should be noted that each time a variant is created it will go live \(available to users\) once the variant is merged with its GitHub repo's branch. GitBook does not allow the disabling of a variant during its development to hide it from users.
 
