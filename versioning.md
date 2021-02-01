@@ -4,6 +4,8 @@ description: Versioning can be maintained through variant manipulation by the au
 
 # Versioning
 
+Versioning can be created through variant manipulation.
+
 Versioning with GitBook can be done using variants but can become confusing unless the default behavior that GitBok uses for GitHub integrations is considered. The following rules are implemented by GitBook by default. They can be changed by changing the **slug** of the variant.
 
 * The initial variant points to the master branch.
@@ -21,12 +23,6 @@ Consider a simple use case of semantic versioning
 3. **PATCH** version when making backward compatible bug fixes.
 
 Using semantic versioning milestones \(_major, minor, and patch_\) can be an issue if the content is not prepared. Each would need a new variant and variants currently become visible to customers as soon as they are created. Unless the content is ready, customers will see nothing but a copy of old content.
-
-{% hint style="info" %}
-As mentioned in the section **Variants**:
-
-A ticket has been submitted to GitBook to determine if a variant can be hidden independently of other variants.
-{% endhint %}
 
 If GitBook commits to adding hiding variants, then versioning using variants become easy.
 
