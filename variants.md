@@ -23,7 +23,7 @@ A ticket has been submitted to GitBook to determine if a variant can be hidden i
 
 Response 1/30/2021: The variant is hidden until the draft is first merged.  
   
-Response 2/1/2021: Try restoring a merge.
+Response 2/1/2021: Try restoring a merge. \(When trying this the Restore selection is disabled so it did not work\).
 {% endhint %}
 
 

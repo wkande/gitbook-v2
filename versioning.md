@@ -24,16 +24,6 @@ Consider a simple use case of semantic versioning
 
 Using semantic versioning milestones \(_major, minor, and patch_\) can be an issue if the content is not prepared. Each would need a new variant and variants currently become visible to customers as soon as they are created. Unless the content is ready, customers will see nothing but a copy of old content.
 
-{% hint style="info" %}
-As mentioned in the section **Variants**:
-
-A ticket has been submitted to GitBook to determine if a variant can be hidden independently of other variants.
-{% endhint %}
-
-{% hint style="info" %}
-Response 1/30/2021: The variant is hidden until the draft is first merged.
-{% endhint %}
-
 If GitBook commits to adding hiding variants, then versioning using variants become easy.
 
 ## Solution \#1
